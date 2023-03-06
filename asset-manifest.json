@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c6350eb.css",
+    "main.js": "/static/js/main.854593a6.js",
+    "static/media/state.meta.wasm": "/static/media/state.meta.9f3618b5d8691ab77caf.wasm",
+    "static/media/kanit-600.woff2": "/static/media/kanit-600.a2adb8f7c067494c0225.woff2",
+    "static/media/kanit-400.woff2": "/static/media/kanit-400.30d596e48610ef7e8932.woff2",
+    "static/media/kanit-700.woff2": "/static/media/kanit-700.4dceb6226434e96dc4e1.woff2",
+    "static/media/kanit-500.woff2": "/static/media/kanit-500.63d399e480c6301efad7.woff2",
+    "static/media/kanit-300.woff2": "/static/media/kanit-300.0c9e7f70b1047dcfa949.woff2",
+    "static/media/poppins-600.woff2": "/static/media/poppins-600.91145014c0350c248ed2.woff2",
+    "static/media/poppins-400.woff2": "/static/media/poppins-400.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-300.woff2": "/static/media/poppins-300.39576fe9df8a22cc1bcc.woff2",
+    "static/media/poppins-700.woff2": "/static/media/poppins-700.d86662fe776dae29ea78.woff2",
+    "static/media/poppins-500.woff2": "/static/media/poppins-500.08491d3f7fe7ae88ef44.woff2",
+    "static/media/meta.txt": "/static/media/meta.ec2e29d2ca0ffde993d3.txt",
+    "index.html": "/index.html",
+    "main.6c6350eb.css.map": "/static/css/main.6c6350eb.css.map",
+    "main.854593a6.js.map": "/static/js/main.854593a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6350eb.css",
+    "static/js/main.854593a6.js"
+  ]
+}
